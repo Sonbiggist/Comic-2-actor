@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo Video Hội thoại",
+  "description": "Tạo video hội thoại giữa 2 nhân vật với hiệu ứng text và âm thanh. Hỗ trợ ghi hình và lưu video.",
+  "requestFramePermissions": []
+}
